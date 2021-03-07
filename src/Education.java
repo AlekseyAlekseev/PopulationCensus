@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Education {
+public enum Education {
+    ELEMENTARY,
+    SECONDARY,
+    FURTHER,
+    HIGHER
 }
